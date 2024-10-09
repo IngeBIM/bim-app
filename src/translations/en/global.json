@@ -1,0 +1,19 @@
+{
+    "help": {
+      "languageChangeLabel": "Change language",
+      "thatOpenPeopleLabel": "That Open Community",
+      "thatOpenPeopleDescription": "Join the That Open community to share knowledge and experiences in BIM software development.",
+      "thatOpenPeopleButton": "Join the community",
+      "becomeDeveloperLabel": "Become a developer",
+      "becomeDeveloperDescription": "Learn how to create BIM applications with our master's course in BIM software development.",
+      "becomeDeveloperButton": "Explore the course",
+      "getCodeLabel": "Get the code",
+      "getCodeDescription": "Access the source code of this application and start developing your own BIM solutions.",
+      "getCodeButton": "Get code"
+    },
+    "projectInformation": {
+      "loadedModels": "Loaded models",
+      "spatialStructures": "Spatial structures",
+      "searchPlaceholder": "Search..."
+    }
+  }

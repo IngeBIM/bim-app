@@ -1,3 +1,4 @@
+import './i18n';
 import * as THREE from "three";
 import * as OBC from "@thatopen/components";
 import * as OBF from "@thatopen/components-front";
